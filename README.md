@@ -1,5 +1,9 @@
 # Stock Lookup Application
-https://github.com/user-attachments/assets/d7a3dc6e-8cca-4a38-82ce-449218f0ba59
+
+
+https://github.com/user-attachments/assets/b5754805-703e-41e7-95b5-7ccf68c52fcf
+
+
 <img src="https://github.com/user-attachments/assets/ea34cf43-7d3e-4eec-a4da-4a3f66fb32dc" width="200" height="400">
 <img src="https://github.com/user-attachments/assets/c9354081-6bda-4bc5-903f-9ceb06b38ce8" width="200" height="400">
 
