@@ -1,4 +1,8 @@
 # Stock Lookup Application
+https://github.com/user-attachments/assets/d7a3dc6e-8cca-4a38-82ce-449218f0ba59
+<img src="https://github.com/user-attachments/assets/ea34cf43-7d3e-4eec-a4da-4a3f66fb32dc" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/c9354081-6bda-4bc5-903f-9ceb06b38ce8" width="200" height="400">
+
 
 ## Overview
 The Stock Lookup Application allows users to search for stock symbols and view their details such as last price, price change, and percent change. This application uses a RecyclerView to display stock information fetched from a stock market API.
